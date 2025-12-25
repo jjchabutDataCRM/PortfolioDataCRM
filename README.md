@@ -1,11 +1,11 @@
+# Portfolio Data Analytics & CRM Integration
+
 ## ⚙️ Technologies
 [![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
 [![MuleSoft](https://img.shields.io/badge/MuleSoft-EA580C?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
 [![PeopleSoft](https://img.shields.io/badge/PeopleSoft-0066CC?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/fr/applications/peoplesoft/)
-
-# Portfolio Data Analytics & CRM Integration
 
 Bienvenue sur mon portfolio ! Je suis Jean-Jacques Chabut, expert **PeopleSoft** (20 ans) en reconversion vers la **data analytics** et l'**intégration CRM**. Ce dépôt présente mes projets réalisés pendant ma formation chez Artefact (2025-2026).
 
