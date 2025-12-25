@@ -18,7 +18,8 @@ Mon expérience s’appuie notamment sur des environnements PeopleSoft CRM et Sa
 ### 1. [Transformation de données CRM enterprise avec dbt](projet1_dbt_CRM/)
 - **Outils** : DBT, BigQuery, Looker Studio.
 - **Statut** : En cours (débuté en décembre 2025).
-- **Description** : Projet inspiré de schémas PeopleSoft CRM  qui possède un modèle très riche et extensible. Pour ce projet analytique, j’ai volontairement extrait un sous-ensemble représentatif afin de construire un modèle orienté reporting et décision.
+- **Description** : Projet inspiré de schémas PeopleSoft CRM, caractérisés par un modèle très riche et extensible.
+Dans un objectif analytique, j’ai volontairement extrait un sous-ensemble représentatif afin de construire un modèle orienté reporting et aide à la décision.
 
 ### 2. [Intégration CRM enterprise – Salesforce avec MuleSoft](projet2_mulesoft_integration/)
 - **Outils** : MuleSoft, Salesforce API.
