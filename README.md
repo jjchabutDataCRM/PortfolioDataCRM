@@ -28,7 +28,7 @@ This repository serves as a **portfolio index** showcasing selected projects dev
 
 ### 📊 E-commerce Analytics (BigQuery & Looker)
 ➡️ **Repository**:  
-https://github.com/TON_USER/ecommerce-data-analysis
+https://github.com/jjchabutDataCRM/ecommerce-data-analysis
 
 **Scope**
 - SQL analytics (CTEs, window functions)
@@ -40,7 +40,7 @@ https://github.com/TON_USER/ecommerce-data-analysis
 
 ### 🧱 CRM Analytics Modeling with dbt
 ➡️ **Repository**:  
-https://github.com/TON_USER/dbt-crm-analytics
+https://github.com/jjchabutDataCRM/dbt-crm-analytics
 
 **Scope**
 - analytical modeling inspired by enterprise CRM schemas
@@ -54,7 +54,7 @@ _Status: in progress_
 
 ### 🔌 CRM Integration Pipeline with MuleSoft
 ➡️ **Repository**:  
-https://github.com/TON_USER/mulesoft-crm-pipeline
+https://github.com/jjchabutDataCRM/mulesoft-crm-pipeline
 
 **Scope**
 - System API / Process API architecture
