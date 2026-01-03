@@ -1,31 +1,71 @@
-# Portfolio Data Analytics & CRM Integration
+# Data Analytics & CRM Integration Portfolio
 
-## ⚙️ Technologies
-[![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)](https://www.getdbt.com/)
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![MuleSoft](https://img.shields.io/badge/MuleSoft-EA580C?style=for-the-badge&logo=mulesoft&logoColor=white)](https://www.mulesoft.com/)
-[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
-[![PeopleSoft](https://img.shields.io/badge/PeopleSoft-0066CC?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/fr/applications/peoplesoft/)
+## 👋 About Me
+I am **Jean-Jacques Chabut**, a senior **CRM enterprise expert (20+ years)** currently transitioning into **Data Analytics and Analytics Engineering**.
 
+My background includes large-scale **PeopleSoft CRM** and **Salesforce** environments, with strong exposure to:
+- data modeling
+- performance optimization
+- system integration
+- event-driven architectures
 
-Bienvenue sur mon portfolio ! 
-Je suis Jean-Jacques Chabut, expert **CRM** enterprise (20 ans) en reconversion vers la **data analytics** et l’**intégration CRM**.
-Ce dépôt présente mes projets réalisés pendant ma formation chez Artefact (2025-2026).
-Mon expérience s’appuie notamment sur des environnements PeopleSoft CRM et Salesforce.
+This repository serves as a **portfolio index** showcasing selected projects developed during my **Data Analytics bootcamp at Artefact (2025–2026)**.
 
-## 📂 Projets
+---
 
-### 1. [Transformation de données CRM enterprise avec dbt](projet1_dbt_CRM/)
-- **Outils** : DBT, BigQuery, Looker Studio.
-- **Statut** : En cours (débuté en décembre 2025).
-- **Description** : Projet inspiré de schémas PeopleSoft CRM, caractérisés par un modèle très riche et extensible.
-Dans un objectif analytique, j’ai volontairement extrait un sous-ensemble représentatif afin de construire un modèle orienté reporting et aide à la décision.
+## 🧠 Core Skills & Technologies
 
-### 2. [Intégration CRM enterprise – Salesforce avec MuleSoft](projet2_mulesoft_integration/)
-- **Outils** : MuleSoft, Salesforce API.
-- **Statut** : Prévu pour janvier 2026.
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-1A73E8?style=for-the-badge&logo=looker&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-EA580C?style=for-the-badge&logo=mulesoft&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-## 📧 Contact
-- Email : jjchabut@yahoo.fr
-- LinkedIn : www.linkedin.com/in/jean-jacques-chabut
+---
 
+## 📂 Selected Projects
+
+### 📊 E-commerce Analytics (BigQuery & Looker)
+➡️ **Repository**:  
+https://github.com/TON_USER/ecommerce-data-analysis
+
+**Scope**
+- SQL analytics (CTEs, window functions)
+- partitioning & clustering in BigQuery
+- KPI definition & time-series analysis
+- dashboarding with Looker Studio
+
+---
+
+### 🧱 CRM Analytics Modeling with dbt
+➡️ **Repository**:  
+https://github.com/TON_USER/dbt-crm-analytics
+
+**Scope**
+- analytical modeling inspired by enterprise CRM schemas
+- fact / dimension design
+- data transformations with dbt
+- analytics-ready datasets
+
+_Status: in progress_
+
+---
+
+### 🔌 CRM Integration Pipeline with MuleSoft
+➡️ **Repository**:  
+https://github.com/TON_USER/mulesoft-crm-pipeline
+
+**Scope**
+- System API / Process API architecture
+- DataWeave transformations
+- API-led connectivity
+- CRM → Analytics data flow
+
+_Status: planned_
+
+---
+
+## 📬 Contact
+- **LinkedIn**: https://www.linkedin.com/in/jean-jacques-chabut  
+- **Email**: jjchabut@yahoo.fr
