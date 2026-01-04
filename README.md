@@ -40,7 +40,7 @@ https://github.com/jjchabutDataCRM/ecommerce-data-analysis
 
 ### 🧱 CRM Analytics Modeling with dbt
 ➡️ **Repository**:  
-https://github.com/jjchabutDataCRM/dbt-crm-analytics
+https://github.com/jjchabutDataCRM/ecommerce-data-dbt-transformation
 
 **Scope**
 - analytical modeling inspired by enterprise CRM schemas
